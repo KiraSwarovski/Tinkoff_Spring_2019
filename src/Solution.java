@@ -20,7 +20,7 @@ public class Solution {
                     res += c;
             }else{
                 res += c;
-                timesSpace = 0;//s
+                timesSpace = 0;
             }
         }
 
