@@ -25,6 +25,5 @@ public class Solution {
         }
 
         System.out.println(res.trim());
-       // System.out.println(s.replaceAll("( +)"," ").trim());
     }
 }
