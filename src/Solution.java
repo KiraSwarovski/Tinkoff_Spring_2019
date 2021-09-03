@@ -4,10 +4,9 @@ import java.io.InputStreamReader;
 
 public class Solution {
     public static void main(String[] args) throws IOException {
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+     //   BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String s = "  I  don't  know.";
-
-
+       // String s = bufferedReader.readLine();
         int timesSpace = 0;
         String res = "";
 

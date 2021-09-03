@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tinkof_Spring_2019_SecondTask/Tinkof_Spring_2019_SecondTask.iml" filepath="$PROJECT_DIR$/Tinkof_Spring_2019_SecondTask/Tinkof_Spring_2019_SecondTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tinkoff_Spring_2019_First_task.iml" filepath="$PROJECT_DIR$/Tinkoff_Spring_2019_First_task.iml" />
     </modules>
   </component>
